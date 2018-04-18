@@ -6,7 +6,7 @@ A small python script to download timelines from Sysdig Monitor into a pandas da
 - reassembling the results into a single pandas dataframe
 
 ## Installation
-pip install pandas
+pip install pandas  
 pip install sdcclient
 
 ## Usage
